@@ -1,4 +1,4 @@
-# food_web
+# Flutter Web - Food App - Flutter UI
 
 A new Flutter project.
 
